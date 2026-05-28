@@ -4,6 +4,8 @@ network: tiat-guest
 pw: artandtechnology
 ## Resources
 
+[living doc](https://docs.google.com/document/d/1RzLgMk2jSR_M9IMPNWzKfN5jjUeMx24BXNpJyi81NW0/edit?usp=sharing)
+
 [workshop repository](https://github.com/drmbt/TD-HIVE-shared)
 [TD Launcher](https://github.com/function-store/TD-Launcher-Plus)
 [[TouchDesigner Style Guide DRMBT]]
@@ -47,7 +49,7 @@ pw: artandtechnology
 ## Cook Optimization
 - pull based cooking in TD
 - no no chops (Logic, trigger, lag, filter) 
-	- [optimeister](https://github.com/dylanroscover/TDComponents) 
+	- [optimeister](https://github.com/dylanroscover/TDComponents)
 - [cookbar](https://forum.derivative.ca/t/cook-bar-cook-times-visualized/7541/7)
 - selective cooking
 - GPU optimized media (HAP)

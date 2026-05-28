@@ -6,41 +6,22 @@ id: 01HJM8WWDDF4R183R00NEP2VN8
 ## HIVE private beta
 
 > [!IMPORTANT] Build Version  
-> built and tested in stable Build TouchDesigner 288040 currently only tested in Windows, with known issues on macOS.
-
-<!-- HTML STYLE  --> `<!-- ... -->`should be preferred in style if not wanted to appear in git render
-%%comment%% `%%comment%%` works in obsidian but not on git
-<!-- HTML STYLE COMMENTS  will not appear in the rendered Markdown obs or git-->this renders
-[comment shows in obsidian, doesn't show up on github]: <> (comment shows in obsidian, doesn't show up on github)
-[//]: #  (This may be the most platform independent comment, doesn't show on git but does in obsidian)
-
-how does inline medata render? [author::Author Name]
-
-`/* ... */` or `<!-- ... -->`  
-/* does this work? */ some stuff   doesn't seem to have much effect on git    
-[//]: # (Write a comment here lets try this again)
-
-does this ==highlight== work on git:? No it does not  
-but maybe <mark> this does? <mark> nope
-
-[CHANGELOG](CHANGELOG.md)  
-[Shortcuts](lib/help/Shortcuts.md)
+> built and tested in stable Build TouchDesigner 2025 32820 with most features compatible on MacOS
 
 ### LICENSE
 
 ____
 > [!info]+  
-> Copyright (c) 2022 [Drmbt](https://github.com/drmbt)  
+> Copyright (c) 2026 [Drmbt](https://github.com/drmbt)  
 > [Vincent Naples](mailto:vincent@drmbt.com)  
 > [drmbt.com](https://www.drmbt.com)
+> [instagram](https://instagram.com/drmbt)
 
 This file is part of HIVE
 
 HIVE is a family of global components and ui elements that become more powerful when they interface together. HIVE is powerful, dangerous, and quite possibly full of bugs.
 
-As this primarily exists as a personal tool and study of TouchDesigner, git, Python, and general UI/UX design,  
-it is in this form being distributed in hope that others may find it useful, but WITHOUT ANY WARRANTY;  
-without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+As this primarily exists as a personal tool and study of TouchDesigner, git, Python, and general UI/UX design,  it is in this form being distributed in hope that others may find it useful, but WITHOUT ANY WARRANTY;  without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 I haven't figured out licensing yet. For now, please consider yourself a closed beta tester, and refer other users to me if you're compelled to share it with someone
 
@@ -67,9 +48,8 @@ Open it on a reasonably powerful computer. (Windows i7 / GTX 1080 eq. or better.
 
 ### Releases
 
-#### 2022 stable
+#### 2026 stable
 
-- 10.27.22 tested in td.28040
 ---
 
 ### Overview
@@ -82,10 +62,6 @@ ___________
 
 ### Quick Start
 
-```put a video intro here```
-
-[shortcuts](https://github.com/drmbt/hive/tree/main/help/shortcutsHive.md)  
-[syleguide](https://github.com/drmbt/hive/tree/main/help/styleguide.md)
 
 #### Project Outline
 
@@ -127,12 +103,6 @@ ___________
     6. OUTPUT
     7. local
 
-### Roadmap
-
-- [ ] refactor POST FX
-- [ ] refactor UI Knobs
-- [ ] localize all dependencies for standalone Scenes and Fx
-- [ ] template wizard to import / externalize modular global components
 
 ___
 
@@ -158,12 +128,3 @@ Many thanks to the following devs and artists for their contributions, examples,
 - [Stefan Kraus](https://mxav.net/)
 - [Markus Heckmann](https://project1.net/)
 - [Lucas Morgan](https://github.com/EnviralDesign)
-
-________
-
-### Contact
-
-- [Vincent Naples](mailto:vincent@drmbt.com)
-- [drmbt.com](https://drmbt.com)
-- [instagram](https://instagram.com/drmbt)
-- [github](https://github.com/drmbt/Hive_Alpha)
