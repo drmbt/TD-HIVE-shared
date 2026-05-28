@@ -1,4 +1,7 @@
 
+### WIFI
+network: tiat-guest
+pw: artandtechnology
 ## Resources
 
 [workshop repository](https://github.com/drmbt/TD-HIVE-shared)
